@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "url": "https://diohis.github.io/AniRate-releases/anirate-latest.apk",
-  "release_notes": "Исправлен workflow — убраны heredoc и кириллица из YAML"
+  "release_notes": "Release v1.0.12"
 }
